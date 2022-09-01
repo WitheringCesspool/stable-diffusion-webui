@@ -1,4 +1,9 @@
 # Stable Diffusion web UI
+
+
+This has been freshly stolen from AUTOMATIC1111
+
+
 A browser interface based on Gradio library for Stable Diffusion.
 
 Original script with Gradio UI was written by a kind anonymous user. This is a modification.
