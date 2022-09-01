@@ -1,7 +1,7 @@
 # Stable Diffusion web UI
 
 
-This has been freshly stolen from AUTOMATIC1111
+This has been freshly stolen from AUTOMATIC1111 to help with my noob notebook modifications. This fork won't be updated.
 
 
 A browser interface based on Gradio library for Stable Diffusion.
