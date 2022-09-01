@@ -1,4 +1,4 @@
-# Stable Diffusion web UI
+# Stable Diffusion web UI (will be updated later today)
 
 
 This has been freshly stolen from AUTOMATIC1111 to help with my noob notebook modifications. This fork won't be updated.
